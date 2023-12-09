@@ -45,4 +45,8 @@ __II. What In The World Are We Talking About?:__
 * Let us never forget that this is purely a fictional theory meant to reside inside a completely fictional, or “meta-fictional”, historiographic novel;
 * The reason that it occurs inside a novel forms another, higher-order theory of representation and what is called “Physio-Imaging”, in the theory of “Crackland” or “Historiomics”, a.k.a. The History-Project / The Archives-Project (novelistic phenomenologies).
 
+- - - - - - - - - -
+
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/Historiomics/Index)
+
 __[A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)__
